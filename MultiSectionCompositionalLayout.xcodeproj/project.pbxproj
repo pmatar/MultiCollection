@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF885ACD2869A94E00DC274F /* CompositionalLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF885ACC2869A94E00DC274F /* CompositionalLayout.swift */; };
 		E52E5E99283121C000ACAAA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52E5E98283121C000ACAAA3 /* AppDelegate.swift */; };
 		E52E5E9B283121C000ACAAA3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52E5E9A283121C000ACAAA3 /* SceneDelegate.swift */; };
 		E52E5E9D283121C000ACAAA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52E5E9C283121C000ACAAA3 /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF885ACC2869A94E00DC274F /* CompositionalLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositionalLayout.swift; sourceTree = "<group>"; };
 		E52E5E95283121C000ACAAA3 /* MultiSectionCompositionalLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiSectionCompositionalLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E52E5E98283121C000ACAAA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E52E5E9A283121C000ACAAA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				E52E5EA3283121CA00ACAAA3 /* LaunchScreen.storyboard */,
 				E52E5EA6283121CA00ACAAA3 /* Info.plist */,
 				E52E5EAC2831359B00ACAAA3 /* ListItem.swift */,
+				CF885ACC2869A94E00DC274F /* CompositionalLayout.swift */,
 				E52E5EAE283136BE00ACAAA3 /* ListSection.swift */,
 				E580B3FB28398791002A77CA /* MockData.swift */,
 			);
@@ -174,6 +177,7 @@
 				E52E5E9B283121C000ACAAA3 /* SceneDelegate.swift in Sources */,
 				E580B3FA283984C5002A77CA /* CollectionViewHeaderReusableView.swift in Sources */,
 				E52E5EB428313E9D00ACAAA3 /* PortraitCollectionViewCell.swift in Sources */,
+				CF885ACD2869A94E00DC274F /* CompositionalLayout.swift in Sources */,
 				E52E5EB228313E7D00ACAAA3 /* StoryCollectionViewCell.swift in Sources */,
 				E52E5EAF283136BE00ACAAA3 /* ListSection.swift in Sources */,
 				E580B3FC28398791002A77CA /* MockData.swift in Sources */,
@@ -325,7 +329,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = RT459C64W3;
+				DEVELOPMENT_TEAM = L7KZPDRX49;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MultiSectionCompositionalLayout/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -353,7 +357,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = RT459C64W3;
+				DEVELOPMENT_TEAM = L7KZPDRX49;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MultiSectionCompositionalLayout/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

@@ -38,6 +38,10 @@ struct MockData {
     }()
     
     var pageData: [ListSection] {
-        [stories, popular, comingSoon]
+        [
+            stories,
+            popular,
+            comingSoon
+        ]
     }
 }
