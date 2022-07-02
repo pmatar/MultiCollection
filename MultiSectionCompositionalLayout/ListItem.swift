@@ -2,7 +2,7 @@
 //  ListItem.swift
 //  MultiSectionCompositionalLayout
 //
-//  Created by Emmanuel Okwara on 15.05.22.
+//  Created by Paul Matar on 27/06/2022.
 //
 
 import Foundation
